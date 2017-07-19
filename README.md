@@ -1,2 +1,2 @@
 # ss-company-profile
-Company Profile ASP.NET
+Company Profile PHP Laravel
